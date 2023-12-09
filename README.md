@@ -8,6 +8,9 @@
 3. Copy the URL
 4. Click Add
 
+**URL:**
+http://192.168.0.116:8551/calc/main-py
+
 **NOTE:**
 App is still under development.
 
