@@ -1,15 +1,28 @@
-﻿# basic-arithmetic-calculator
+# Basic Arithmetic Calculator
 
-**A calculator made from flet python**
+Hello there!
 
-**How to use:**
-1. Install flet app from Play Store (Android) or Apple Store (iOS)
-2. Click create new project
-3. Copy the URL
-4. Click Add
+Welcome to the Basic Arithmetic Calculator project! This is a simple calculator application made with flet (python).
 
-**URL:**
-http://192.168.0.116:8551/calc/main-py
+## About
+
+The Basic Arithmetic Calculator is a Python program that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## How to Use
+1. Clone this repository to your local machine:
+```
+git clone https://github.com/your-username/basic-arithmetic-calculator.git
+```
+2.  install Flet module
+```
+pip install flet
+```
+3. Navigate to the project directory
+4. Run the calculator script on the terminal
+```
+flet run main.py
+```
+5. Follow the link provided by the terminal
 
 **NOTE:**
 App is still under development.
